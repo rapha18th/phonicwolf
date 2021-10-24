@@ -15,7 +15,7 @@ nltk.download('popular', quiet=True) # for downloading packages
 #nltk.download('wordnet') # first-time use only
 
 
-f=open('bewbew.txt','r',errors = 'ignore')
+f=open('test.txt','r',errors = 'ignore')
 raw=f.read()
 raw = raw.lower()# converts to lowercase
 
