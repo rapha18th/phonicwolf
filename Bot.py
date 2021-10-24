@@ -10,7 +10,7 @@ warnings.filterwarnings('ignore')
 
 
 GREETING_INPUTS = ("How are you","hello", "hi", "greetings", "sup", "what's up", "hey",)
-GREETING_RESPONSES = ["hi", "hey", "Give me a name and I will tell you all about that person", "hi there", "hello", "I am glad! You are talking to me", "Say something you want to learning about"]
+GREETING_RESPONSES = ["hi", "hey", "Give me a name and I will tell you all about that person", "hi there enter a query and I will give you a description", "hello", "I am glad! You are talking to me", "Say something you want to learning about"]
 
 
 
